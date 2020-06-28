@@ -1,5 +1,3 @@
-# Udacity Data Engineering Capstone Project
-
 # Temperature the biggest reason for immigration or just random event?
 
 ## Project summary
